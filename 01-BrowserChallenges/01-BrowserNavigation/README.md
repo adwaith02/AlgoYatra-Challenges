@@ -26,13 +26,11 @@ Design a `BrowserHistory` class that supports the following operations:
 
 Each submission should reside in its own folder under the following structure:
 
-
 /01-BrowserChallenges
-	|--01-BrowserNavigation
-		|-- solution.py
-		|-- Challenge.md (optional for your own solution)
+|--01-BrowserNavigation
+|-- solution.py
+|-- README.md (Problem statement)
 Copy the solution URL and submit in the provided Form.
-
 
 ---
 
@@ -63,5 +61,4 @@ class BrowserHistory:
 
     def forward(self, steps: int) -> str:
         pass
-
-
+```
