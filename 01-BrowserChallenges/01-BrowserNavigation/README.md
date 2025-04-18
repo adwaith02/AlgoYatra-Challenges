@@ -62,3 +62,11 @@ class BrowserHistory:
     def forward(self, steps: int) -> str:
         pass
 ```
+
+---
+
+## 🔍 Test Case Scenarios
+
+To validate your implementation, make sure it passes a variety of edge cases and typical use cases.
+
+You can find detailed test inputs and expected outputs in the [TestCases.md](https://github.com/adwaith02/AlgoYatra-Challenges/tree/main/01-BrowserChallenges/01-BrowserNavigation/TESTCASES.md) file.
