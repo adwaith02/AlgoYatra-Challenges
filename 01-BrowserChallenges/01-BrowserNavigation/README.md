@@ -42,7 +42,8 @@ Copy the solution URL and submit in the provided Form.
 4. Use meaningful class/method names.
 5. (Optional) Include comments or a `Solution.md` to explain your approach.
 6. Ensure your code passes the provided test cases (or add your own).
-7. Push your code and submit a PR for review.
+7. Push your code to your github repo and submit the deatils to the below form for review.
+8. Form [submission link](https://forms.gle/guPn4i8gcWZmbZTJ6)
 
 ---
 
@@ -70,3 +71,6 @@ class BrowserHistory:
 To validate your implementation, make sure it passes a variety of edge cases and typical use cases.
 
 You can find detailed test inputs and expected outputs in the [TestCases.md](https://github.com/adwaith02/AlgoYatra-Challenges/tree/main/01-BrowserChallenges/01-BrowserNavigation/TESTCASES.md) file.
+
+
+[![💻 Built at TinkerSpace](https://img.shields.io/badge/Built%20at-TinkerSpace-blueviolet?style=for-the-badge&label=%F0%9F%92%BBBuilt%20at&labelColor=turquoise&color=white)](https://tinkerhub.org/tinkerspace)
